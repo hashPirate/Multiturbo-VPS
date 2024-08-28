@@ -14,12 +14,12 @@ This project was incredibly successful and lucrative. The code has not been work
 - Automatically changes your skin to a desired skin and uses Javascript to claim the namemc page of the name.
 - Ensures multithreaded requests are printed on separate lines using thread locks.
 # Usage
-Install all the required modules.
-Create an accounts.txt file hosting your accounts in the format email/password. For this to work well you want at least 20. This will only work with giftcode accounts because of the rl bypass.
-Create a proxies.txt file containing your HTTP/HTTPS proxies in the format ip:port:username:password. I've found that webshare proxies work well for this purpose.
-Change delay_between_threads to your desired amount.
-Create a names.txt file to host the desired names to target.
-Replace all discord webhooks with your custom webhooks!
+- Install all the required modules.
+- Create an accounts.txt file hosting your accounts in the format email/password. For this to work well you want at least 20. This will only work with giftcode accounts because of the rl bypass.
+- Create a proxies.txt file containing your HTTP/HTTPS proxies in the format ip:port:username:password. I've found that webshare proxies work well for this purpose.
+- Change delay_between_threads to your desired amount.
+- Create a names.txt file to host the desired names to target.
+- Replace all discord webhooks with your custom webhooks!
 
 
 
