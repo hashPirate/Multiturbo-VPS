@@ -2,7 +2,7 @@
 Completely automated Minecraft Turbo designed to be run on a VPS
 
 # Info
-This project was incredibly successful and lucrative. The code has not been worked recently but is up to date. I do not snipe anymore so I am publishing my code publicly. You are free to use it as you please without the need to give me credit. I have not made this project easy to use. This is just the raw code.
+This project was incredibly successful and lucrative. The code has not been worked on recently but is up to date. I do not snipe anymore so I am publishing my code so that people can build off of it. You are free to use it as you please without the need to give me credit. I apologize but I have not made this project easy to use. 
 
 # Features
 - Customizable delays and requests
