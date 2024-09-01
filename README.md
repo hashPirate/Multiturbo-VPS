@@ -13,6 +13,7 @@ This project was incredibly successful and lucrative. The code has not been work
 - Counts errors and notifies you if there are proxy errors.
 - Automatically changes your skin to a desired skin and uses Javascript to claim the namemc page of the name.
 - Ensures multithreaded requests are printed on separate lines using thread locks.
+- Can be set to target multiple names rather than a single target.
 # Usage
 - Install all the required modules.
 - Create an accounts.txt file hosting your accounts in the format email/password. For this to work well you want at least 20. This will only work with giftcode accounts because of the rl bypass.
